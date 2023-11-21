@@ -18,6 +18,7 @@ a payment finder
 | Giropay | | |
 | EPS | | |
 | DOKU Wallet (Indonesia) | | |
+| Remitly | | Personal fund transfer ||
 
 ## Reference
 https://www.opencart.cn/articles/327
